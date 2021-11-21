@@ -25,6 +25,11 @@ img {
     
 }
 
+#logo {
+    max-width: 350px;
+    margin-top: 50px;
+}
+
 h1 {
   font-size: 50px;
   font-weight: 600;
